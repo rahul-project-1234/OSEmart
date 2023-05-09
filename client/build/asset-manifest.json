@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2866aba.css",
+    "main.js": "/static/js/main.fe04fddb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/oselabs_logo.png": "/static/media/oselabs_logo.8aa7964277b9eaef3ecd.png",
+    "index.html": "/index.html",
+    "main.f2866aba.css.map": "/static/css/main.f2866aba.css.map",
+    "main.fe04fddb.js.map": "/static/js/main.fe04fddb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2866aba.css",
+    "static/js/main.fe04fddb.js"
+  ]
+}
